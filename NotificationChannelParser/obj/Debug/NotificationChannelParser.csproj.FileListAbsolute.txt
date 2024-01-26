@@ -1,0 +1,7 @@
+C:\Users\kakab\source\repos\NotificationChannelParser\bin\Debug\NotificationChannelParser.exe.config
+C:\Users\kakab\source\repos\NotificationChannelParser\bin\Debug\NotificationChannelParser.exe
+C:\Users\kakab\source\repos\NotificationChannelParser\bin\Debug\NotificationChannelParser.pdb
+C:\Users\kakab\source\repos\NotificationChannelParser\obj\Debug\NotificationChannelParser.csproj.CoreCompileInputs.cache
+C:\Users\kakab\source\repos\NotificationChannelParser\obj\Debug\NotificationChannelParser.exe
+C:\Users\kakab\source\repos\NotificationChannelParser\obj\Debug\NotificationChannelParser.pdb
+C:\Users\kakab\source\repos\NotificationChannelParser\obj\Debug\NotificationChannelParser.csproj.AssemblyReference.cache
